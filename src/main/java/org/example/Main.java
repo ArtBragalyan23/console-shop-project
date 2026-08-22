@@ -205,7 +205,7 @@ public class Main {
 
         switch (choice) {
             case 1: {
-                OrderItemService orderItemService = new OrderItemService();z
+                OrderItemService orderItemService = new OrderItemService();
                 System.out.print("Enter order ID: ");
                 int id = scanner.nextInt();
                 scanner.nextLine();
